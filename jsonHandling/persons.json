@@ -1,0 +1,16 @@
+[
+    {
+        "Name": "Anakin",
+        "Surname": "Skywalker",
+        "Age": 50,
+        "Profession": "Intergalatic Vilain",
+        "BankAccount": 10000000000.54
+    },
+    {
+        "Name": "James",
+        "Surname": "Bond",
+        "Age": 42,
+        "Profession": "Secret Agent",
+        "BankAccount": 253329.23
+    }
+]
