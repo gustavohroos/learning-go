@@ -1,4 +1,2 @@
 github.com/gustavohroos/learning-go v0.0.0-20240512170441-0ec7b03a7cc7 h1:oJvesE3/1zna8gj/1TjAvyNYk7H+0H5bBLKGj4ChKoI=
 github.com/gustavohroos/learning-go v0.0.0-20240512170441-0ec7b03a7cc7/go.mod h1:/xrJbxmqSl/yHLqNh+OPpCspyFy9Klwdj9e4Zf8ykSU=
-golang.org/x/crypto v0.23.0 h1:dIJU/v2J8Mdglj/8rJ6UUOM3Zc9zLZxVZwwxMooUSAI=
-golang.org/x/crypto v0.23.0/go.mod h1:CKFgDieR+mRhux2Lsu27y0fO304Db0wZe70UKqHu0v8=
